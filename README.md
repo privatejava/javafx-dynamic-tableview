@@ -7,4 +7,4 @@ This project depends on `test` database running in mysql.
   - RUN `tables.sql` in that database for seeding `customer` table (only if necessary)
   - execute run.sh *(linux/mac)* or run.bat*(window)*
 
-[![N|Solid](https://imgur.com/a/P8Dv7Aa)]
+[![N|Solid](https://i.imgur.com/vhLpgqk.png)]
